@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>eBird Rare Bird Alerts</title>
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+
+        header {
+            background: linear-gradient(135deg, #2d5a3d 0%, #4a7c59 100%);
+            color: white;
+            padding: 30px;
+            border-radius: 10px;
+            margin-bottom: 30px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+
+        h1 {
+            margin: 0 0 10px 0;
+            font-size: 2em;
+        }
+
+        .meta {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            font-size: 0.95em;
+            opacity: 0.9;
+        }
+
+        .meta-item {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+
+        .table-container {
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        th {
+            background: #4a7c59;
+            color: white;
+            padding: 15px 12px;
+            text-align: left;
+            font-weight: 600;
+            cursor: pointer;
+            user-select: none;
+            position: relative;
+        }
+
+        th:hover {
+            background: #3d6a4a;
+        }
+
+        th::after {
+            content: ' \2195';
+            opacity: 0.5;
+            font-size: 0.8em;
+        }
+
+        th.sort-asc::after {
+            content: ' \2191';
+            opacity: 1;
+        }
+
+        th.sort-desc::after {
+            content: ' \2193';
+            opacity: 1;
+        }
+
+        td {
+            padding: 12px;
+            border-bottom: 1px solid #eee;
+        }
+
+        tr:hover {
+            background: #f8fdf9;
+        }
+
+        tr:last-child td {
+            border-bottom: none;
+        }
+
+        .species-name {
+            font-weight: 600;
+            color: #2d5a3d;
+        }
+
+        .location {
+            color: #555;
+        }
+
+        .date {
+            color: #666;
+            white-space: nowrap;
+        }
+
+        .observer {
+            color: #777;
+        }
+
+        a {
+            color: #4a7c59;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        .btn {
+            display: inline-block;
+            padding: 6px 12px;
+            background: #4a7c59;
+            color: white;
+            border-radius: 5px;
+            font-size: 0.85em;
+            transition: background 0.2s;
+        }
+
+        .btn:hover {
+            background: #3d6a4a;
+            text-decoration: none;
+        }
+
+        footer {
+            margin-top: 30px;
+            text-align: center;
+            color: #666;
+            font-size: 0.9em;
+        }
+
+        footer a {
+            color: #4a7c59;
+        }
+
+        .no-sightings {
+            text-align: center;
+            padding: 40px;
+            color: #666;
+        }
+
+        /* Mobile responsive */
+        @media (max-width: 768px) {
+            body {
+                padding: 10px;
+            }
+
+            header {
+                padding: 20px;
+            }
+
+            h1 {
+                font-size: 1.5em;
+            }
+
+            .table-container {
+                overflow-x: auto;
+            }
+
+            table {
+                min-width: 600px;
+            }
+
+            th, td {
+                padding: 10px 8px;
+                font-size: 0.9em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Rare Bird Alerts</h1>
+        <div class="meta">
+            <div class="meta-item">
+                <span>Last updated:</span>
+                <strong>{{ last_updated }}</strong>
+            </div>
+            <div class="meta-item">
+                <span>Sightings:</span>
+                <strong>{{ count }}</strong>
+            </div>
+            <div class="meta-item">
+                <a href="{{ alert_url }}" target="_blank" class="btn">View on eBird</a>
+                <a href="data.json" class="btn">Download JSON</a>
+            </div>
+        </div>
+    </header>
+
+    <div class="table-container">
+        {% if sightings %}
+        <table id="sightings-table">
+            <thead>
+                <tr>
+                    <th data-sort="species">Species</th>
+                    <th data-sort="location">Location</th>
+                    <th data-sort="date">Date</th>
+                    <th data-sort="observer">Observer</th>
+                    <th>Checklist</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for sighting in sightings %}
+                <tr>
+                    <td class="species-name">{{ sighting.species }}</td>
+                    <td class="location">{{ sighting.location }}</td>
+                    <td class="date">{{ sighting.date }}</td>
+                    <td class="observer">{{ sighting.observer }}</td>
+                    <td>
+                        {% if sighting.checklist_url %}
+                        <a href="{{ sighting.checklist_url }}" target="_blank" class="btn">View</a>
+                        {% else %}
+                        -
+                        {% endif %}
+                    </td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        {% else %}
+        <div class="no-sightings">
+            <p>No rare bird sightings found in the current alert period.</p>
+        </div>
+        {% endif %}
+    </div>
+
+    <footer>
+        <p>Data sourced from <a href="https://ebird.org" target="_blank">eBird</a> by Cornell Lab of Ornithology</p>
+        <p>Auto-updated daily via GitHub Actions</p>
+    </footer>
+
+    <script>
+        // Simple table sorting
+        document.querySelectorAll('th[data-sort]').forEach(th => {
+            th.addEventListener('click', () => {
+                const table = th.closest('table');
+                const tbody = table.querySelector('tbody');
+                const rows = Array.from(tbody.querySelectorAll('tr'));
+                const idx = Array.from(th.parentNode.children).indexOf(th);
+                const isAsc = th.classList.contains('sort-asc');
+
+                // Remove sort classes from all headers
+                th.parentNode.querySelectorAll('th').forEach(h => {
+                    h.classList.remove('sort-asc', 'sort-desc');
+                });
+
+                // Sort rows
+                rows.sort((a, b) => {
+                    const aVal = a.children[idx].textContent.trim().toLowerCase();
+                    const bVal = b.children[idx].textContent.trim().toLowerCase();
+                    return isAsc ? bVal.localeCompare(aVal) : aVal.localeCompare(bVal);
+                });
+
+                // Update class and reorder
+                th.classList.add(isAsc ? 'sort-desc' : 'sort-asc');
+                rows.forEach(row => tbody.appendChild(row));
+            });
+        });
+    </script>
+</body>
+</html>
