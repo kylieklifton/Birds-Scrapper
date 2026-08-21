@@ -1,17 +1,33 @@
 {
-  "last_updated": "2026-08-20 06:38:24 UTC",
+  "last_updated": "2026-08-21 06:38:41 UTC",
   "alert_url": "https://ebird.org/alert/summary?sid=SN35466",
   "sightings": [
     {
-      "species": "CONFIRMED",
+      "species": "UNCONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S382909649",
+      "checklist_url": "https://ebird.org/checklist/S385274700",
       "count": ""
     },
     {
-      "species": "CONFIRMED",
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S385274696",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -39,39 +55,7 @@
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384910250",
-      "count": ""
-    },
-    {
-      "species": "UNCONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "UNCONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
       "checklist_url": "https://ebird.org/checklist/S384988061",
-      "count": ""
-    },
-    {
-      "species": "UNCONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "UNCONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S385041195",
       "count": ""
     },
     {
@@ -115,15 +99,15 @@
       "count": ""
     },
     {
-      "species": "CONFIRMED",
+      "species": "UNCONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S383256307",
+      "checklist_url": "https://ebird.org/checklist/S384910250",
       "count": ""
     },
     {
-      "species": "CONFIRMED",
+      "species": "UNCONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -135,7 +119,7 @@
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384434377",
+      "checklist_url": "https://ebird.org/checklist/S383256307",
       "count": ""
     },
     {
@@ -167,11 +151,27 @@
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384033037",
+      "checklist_url": "https://ebird.org/checklist/S384434377",
       "count": ""
     },
     {
       "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S385187204",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -199,11 +199,27 @@
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S383060158",
+      "checklist_url": "https://ebird.org/checklist/S384033037",
       "count": ""
     },
     {
       "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S385244632",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -243,7 +259,7 @@
       "count": ""
     },
     {
-      "species": "UNCONFIRMED",
+      "species": "CONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -251,7 +267,7 @@
       "count": ""
     },
     {
-      "species": "UNCONFIRMED",
+      "species": "CONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -295,39 +311,7 @@
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S383063664",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
       "checklist_url": "https://ebird.org/checklist/S383389525",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S383063664",
       "count": ""
     },
     {
@@ -391,39 +375,23 @@
       "location": "",
       "date": "",
       "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S385156219",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
       "checklist_url": "https://ebird.org/checklist/S384814657",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S382951074",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S382910613",
       "count": ""
     },
     {
@@ -476,6 +444,22 @@
     },
     {
       "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S385245290",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -551,22 +535,6 @@
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384387045",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
       "checklist_url": "https://ebird.org/checklist/S384158818",
       "count": ""
     },
@@ -583,7 +551,39 @@
       "location": "",
       "date": "",
       "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S384387045",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
       "checklist_url": "https://ebird.org/checklist/S384223276",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S383781497",
       "count": ""
     },
     {
@@ -707,6 +707,70 @@
       "count": ""
     },
     {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S385231003",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S385223925",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S385138782",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S385106197",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
       "species": "UNCONFIRMED",
       "location": "",
       "date": "",
@@ -744,102 +808,6 @@
       "date": "",
       "observer": "",
       "checklist_url": "https://ebird.org/checklist/S384789863",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384671414",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384692108",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384671140",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S382984337",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S382878351",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S383072851",
       "count": ""
     },
     {
@@ -899,7 +867,7 @@
       "count": ""
     },
     {
-      "species": "UNCONFIRMED",
+      "species": "CONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -907,7 +875,7 @@
       "count": ""
     },
     {
-      "species": "UNCONFIRMED",
+      "species": "CONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -963,22 +931,6 @@
       "count": ""
     },
     {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S383066207",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
       "species": "UNCONFIRMED",
       "location": "",
       "date": "",
@@ -1011,15 +963,15 @@
       "count": ""
     },
     {
-      "species": "CONFIRMED",
+      "species": "UNCONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S383047274",
+      "checklist_url": "https://ebird.org/checklist/S385202629",
       "count": ""
     },
     {
-      "species": "CONFIRMED",
+      "species": "UNCONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -1027,15 +979,15 @@
       "count": ""
     },
     {
-      "species": "CONFIRMED",
+      "species": "UNCONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S382941539",
+      "checklist_url": "https://ebird.org/checklist/S385107578",
       "count": ""
     },
     {
-      "species": "CONFIRMED",
+      "species": "UNCONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -1123,15 +1075,15 @@
       "count": ""
     },
     {
-      "species": "CONFIRMED",
+      "species": "UNCONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S383752387",
+      "checklist_url": "https://ebird.org/checklist/S385118274",
       "count": ""
     },
     {
-      "species": "CONFIRMED",
+      "species": "UNCONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -1219,7 +1171,7 @@
       "count": ""
     },
     {
-      "species": "UNCONFIRMED",
+      "species": "CONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -1227,7 +1179,7 @@
       "count": ""
     },
     {
-      "species": "UNCONFIRMED",
+      "species": "CONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -1235,7 +1187,7 @@
       "count": ""
     },
     {
-      "species": "UNCONFIRMED",
+      "species": "CONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -1243,7 +1195,7 @@
       "count": ""
     },
     {
-      "species": "UNCONFIRMED",
+      "species": "CONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -1251,7 +1203,7 @@
       "count": ""
     },
     {
-      "species": "UNCONFIRMED",
+      "species": "CONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -1259,7 +1211,7 @@
       "count": ""
     },
     {
-      "species": "UNCONFIRMED",
+      "species": "CONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -1272,22 +1224,6 @@
       "date": "",
       "observer": "",
       "checklist_url": "https://ebird.org/checklist/S383220308",
-      "count": ""
-    },
-    {
-      "species": "UNCONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "UNCONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S383053205",
       "count": ""
     },
     {
@@ -1319,7 +1255,7 @@
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384794454",
+      "checklist_url": "https://ebird.org/checklist/S384741973",
       "count": ""
     },
     {
@@ -1335,7 +1271,7 @@
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384741973",
+      "checklist_url": "https://ebird.org/checklist/S384794454",
       "count": ""
     },
     {
@@ -1379,31 +1315,15 @@
       "count": ""
     },
     {
-      "species": "CONFIRMED",
+      "species": "UNCONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384950646",
+      "checklist_url": "https://ebird.org/checklist/S385187491",
       "count": ""
     },
     {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384957557",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
+      "species": "UNCONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -1411,31 +1331,15 @@
       "count": ""
     },
     {
-      "species": "CONFIRMED",
+      "species": "UNCONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384940554",
+      "checklist_url": "https://ebird.org/checklist/S385275875",
       "count": ""
     },
     {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384995176",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
+      "species": "UNCONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -1443,31 +1347,15 @@
       "count": ""
     },
     {
-      "species": "CONFIRMED",
+      "species": "UNCONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384975123",
+      "checklist_url": "https://ebird.org/checklist/S385180507",
       "count": ""
     },
     {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384942326",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
+      "species": "UNCONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -1475,15 +1363,63 @@
       "count": ""
     },
     {
-      "species": "CONFIRMED",
+      "species": "UNCONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384802901",
+      "checklist_url": "https://ebird.org/checklist/S385206072",
       "count": ""
     },
     {
-      "species": "CONFIRMED",
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S385263692",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S385219119",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S385197823",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -1516,6 +1452,22 @@
     },
     {
       "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S384802383",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -1560,22 +1512,6 @@
       "date": "",
       "observer": "",
       "checklist_url": "https://ebird.org/checklist/S384801251",
-      "count": ""
-    },
-    {
-      "species": "UNCONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "UNCONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384802383",
       "count": ""
     },
     {
@@ -1639,7 +1575,23 @@
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384923791",
+      "checklist_url": "https://ebird.org/checklist/S385263934",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S385202248",
       "count": ""
     },
     {
@@ -1656,6 +1608,22 @@
       "date": "",
       "observer": "",
       "checklist_url": "https://ebird.org/checklist/S385020819",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S384923791",
       "count": ""
     },
     {
@@ -1719,39 +1687,7 @@
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384061782",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384061783",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S383063664",
+      "checklist_url": "https://ebird.org/checklist/S385209880",
       "count": ""
     },
     {
@@ -1795,7 +1731,7 @@
       "count": ""
     },
     {
-      "species": "UNCONFIRMED",
+      "species": "CONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -1803,7 +1739,7 @@
       "count": ""
     },
     {
-      "species": "UNCONFIRMED",
+      "species": "CONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -1811,7 +1747,7 @@
       "count": ""
     },
     {
-      "species": "UNCONFIRMED",
+      "species": "CONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -1819,7 +1755,7 @@
       "count": ""
     },
     {
-      "species": "UNCONFIRMED",
+      "species": "CONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -1827,7 +1763,7 @@
       "count": ""
     },
     {
-      "species": "UNCONFIRMED",
+      "species": "CONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -1835,7 +1771,7 @@
       "count": ""
     },
     {
-      "species": "UNCONFIRMED",
+      "species": "CONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -1843,7 +1779,7 @@
       "count": ""
     },
     {
-      "species": "UNCONFIRMED",
+      "species": "CONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -1851,7 +1787,7 @@
       "count": ""
     },
     {
-      "species": "UNCONFIRMED",
+      "species": "CONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -1891,6 +1827,22 @@
       "count": ""
     },
     {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S385263934",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
       "species": "CONFIRMED",
       "location": "",
       "date": "",
@@ -1912,6 +1864,22 @@
       "date": "",
       "observer": "",
       "checklist_url": "https://ebird.org/checklist/S384754351",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S384496029",
       "count": ""
     },
     {
@@ -2119,7 +2087,7 @@
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384968354",
+      "checklist_url": "https://ebird.org/checklist/S384507766",
       "count": ""
     },
     {
@@ -2131,31 +2099,15 @@
       "count": ""
     },
     {
-      "species": "CONFIRMED",
+      "species": "UNCONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384930878",
+      "checklist_url": "https://ebird.org/checklist/S385207289",
       "count": ""
     },
     {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384930612",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
+      "species": "UNCONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -2163,31 +2115,15 @@
       "count": ""
     },
     {
-      "species": "CONFIRMED",
+      "species": "UNCONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384928376",
+      "checklist_url": "https://ebird.org/checklist/S385187491",
       "count": ""
     },
     {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384928644",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
+      "species": "UNCONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -2195,31 +2131,15 @@
       "count": ""
     },
     {
-      "species": "CONFIRMED",
+      "species": "UNCONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384979006",
+      "checklist_url": "https://ebird.org/checklist/S385275875",
       "count": ""
     },
     {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384930041",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
+      "species": "UNCONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -2227,31 +2147,15 @@
       "count": ""
     },
     {
-      "species": "CONFIRMED",
+      "species": "UNCONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S382940882",
+      "checklist_url": "https://ebird.org/checklist/S385180507",
       "count": ""
     },
     {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384326458",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
+      "species": "UNCONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -2259,15 +2163,15 @@
       "count": ""
     },
     {
-      "species": "CONFIRMED",
+      "species": "UNCONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384222744",
+      "checklist_url": "https://ebird.org/checklist/S385206072",
       "count": ""
     },
     {
-      "species": "CONFIRMED",
+      "species": "UNCONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -2275,15 +2179,159 @@
       "count": ""
     },
     {
-      "species": "CONFIRMED",
+      "species": "UNCONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S383579022",
+      "checklist_url": "https://ebird.org/checklist/S385301008",
       "count": ""
     },
     {
-      "species": "CONFIRMED",
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S385219474",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S385219475",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S385205823",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S385266578",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S385263692",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S385219119",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S385197823",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S385175550",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S385163837",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -2296,38 +2344,6 @@
       "date": "",
       "observer": "",
       "checklist_url": "https://ebird.org/checklist/S384694072",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384706778",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384709631",
       "count": ""
     },
     {
@@ -2419,7 +2435,7 @@
       "count": ""
     },
     {
-      "species": "UNCONFIRMED",
+      "species": "CONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -2427,7 +2443,7 @@
       "count": ""
     },
     {
-      "species": "UNCONFIRMED",
+      "species": "CONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -2435,7 +2451,7 @@
       "count": ""
     },
     {
-      "species": "UNCONFIRMED",
+      "species": "CONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -2443,7 +2459,7 @@
       "count": ""
     },
     {
-      "species": "UNCONFIRMED",
+      "species": "CONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -2451,7 +2467,7 @@
       "count": ""
     },
     {
-      "species": "UNCONFIRMED",
+      "species": "CONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -2459,7 +2475,23 @@
       "count": ""
     },
     {
-      "species": "UNCONFIRMED",
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S384369620",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -2472,22 +2504,6 @@
       "date": "",
       "observer": "",
       "checklist_url": "https://ebird.org/checklist/S384472803",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384474656",
       "count": ""
     },
     {
@@ -2519,7 +2535,7 @@
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384968354",
+      "checklist_url": "https://ebird.org/checklist/S384474656",
       "count": ""
     },
     {
@@ -2532,6 +2548,102 @@
     },
     {
       "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S385301008",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S385219474",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S385219475",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S385159282",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S385159751",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S385203721",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -2539,87 +2651,7 @@
       "count": ""
     },
     {
-      "species": "UNCONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "UNCONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384923886",
-      "count": ""
-    },
-    {
-      "species": "UNCONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
       "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384986215",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S385001502",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384936149",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "UNCONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384973176",
-      "count": ""
-    },
-    {
-      "species": "UNCONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -2632,22 +2664,6 @@
       "date": "",
       "observer": "",
       "checklist_url": "https://ebird.org/checklist/S384431853",
-      "count": ""
-    },
-    {
-      "species": "UNCONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "UNCONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384503846",
       "count": ""
     },
     {
@@ -2711,22 +2727,6 @@
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S383008697",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
       "checklist_url": "https://ebird.org/checklist/S384216233",
       "count": ""
     },
@@ -2748,22 +2748,6 @@
     },
     {
       "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "UNCONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384855312",
-      "count": ""
-    },
-    {
-      "species": "UNCONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -2855,7 +2839,7 @@
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384505329",
+      "checklist_url": "https://ebird.org/checklist/S384512141",
       "count": ""
     },
     {
@@ -2871,7 +2855,7 @@
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384512141",
+      "checklist_url": "https://ebird.org/checklist/S384505329",
       "count": ""
     },
     {
@@ -2903,7 +2887,7 @@
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S385021068",
+      "checklist_url": "https://ebird.org/checklist/S385278460",
       "count": ""
     },
     {
@@ -2919,7 +2903,7 @@
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384862096",
+      "checklist_url": "https://ebird.org/checklist/S385278461",
       "count": ""
     },
     {
@@ -2935,7 +2919,7 @@
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384863689",
+      "checklist_url": "https://ebird.org/checklist/S385291884",
       "count": ""
     },
     {
@@ -2951,39 +2935,7 @@
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384700301",
-      "count": ""
-    },
-    {
-      "species": "UNCONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384934094",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "UNCONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384892984",
+      "checklist_url": "https://ebird.org/checklist/S385278353",
       "count": ""
     },
     {
@@ -2999,7 +2951,7 @@
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384892983",
+      "checklist_url": "https://ebird.org/checklist/S385137728",
       "count": ""
     },
     {
@@ -3011,15 +2963,31 @@
       "count": ""
     },
     {
-      "species": "CONFIRMED",
+      "species": "UNCONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S382878887",
+      "checklist_url": "https://ebird.org/checklist/S385137726",
       "count": ""
     },
     {
-      "species": "CONFIRMED",
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S385122622",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -3031,39 +2999,7 @@
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S382852247",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S383341308",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S382942285",
+      "checklist_url": "https://ebird.org/checklist/S385232370",
       "count": ""
     },
     {
@@ -3100,22 +3036,6 @@
     },
     {
       "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "UNCONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S385020807",
-      "count": ""
-    },
-    {
-      "species": "UNCONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -3223,6 +3143,22 @@
       "location": "",
       "date": "",
       "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S385258789",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
       "checklist_url": "https://ebird.org/checklist/S384163745",
       "count": ""
     },
@@ -3235,47 +3171,15 @@
       "count": ""
     },
     {
-      "species": "CONFIRMED",
+      "species": "UNCONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384122530",
+      "checklist_url": "https://ebird.org/checklist/S385255897",
       "count": ""
     },
     {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384122531",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384122528",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
+      "species": "UNCONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -3308,6 +3212,38 @@
     },
     {
       "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S385267573",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S385261617",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -3415,7 +3351,7 @@
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384634761",
+      "checklist_url": "https://ebird.org/checklist/S384973169",
       "count": ""
     },
     {
@@ -3431,11 +3367,27 @@
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384973169",
+      "checklist_url": "https://ebird.org/checklist/S385138782",
       "count": ""
     },
     {
       "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S385112356",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -3479,6 +3431,22 @@
       "location": "",
       "date": "",
       "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S385274704",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
       "checklist_url": "https://ebird.org/checklist/S384712857",
       "count": ""
     },
@@ -3507,27 +3475,11 @@
       "count": ""
     },
     {
-      "species": "UNCONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S385015495",
-      "count": ""
-    },
-    {
-      "species": "UNCONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
       "species": "CONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S385001502",
+      "checklist_url": "https://ebird.org/checklist/S385015495",
       "count": ""
     },
     {
@@ -3559,6 +3511,22 @@
       "location": "",
       "date": "",
       "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S385001502",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
       "checklist_url": "https://ebird.org/checklist/S384936149",
       "count": ""
     },
@@ -3571,15 +3539,15 @@
       "count": ""
     },
     {
-      "species": "UNCONFIRMED",
+      "species": "CONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384973176",
+      "checklist_url": "https://ebird.org/checklist/S384931824",
       "count": ""
     },
     {
-      "species": "UNCONFIRMED",
+      "species": "CONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -3587,7 +3555,39 @@
       "count": ""
     },
     {
-      "species": "UNCONFIRMED",
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S385274704",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S384913632",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -3595,7 +3595,7 @@
       "count": ""
     },
     {
-      "species": "UNCONFIRMED",
+      "species": "CONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -3603,7 +3603,7 @@
       "count": ""
     },
     {
-      "species": "UNCONFIRMED",
+      "species": "CONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -3611,7 +3611,7 @@
       "count": ""
     },
     {
-      "species": "UNCONFIRMED",
+      "species": "CONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -3619,7 +3619,7 @@
       "count": ""
     },
     {
-      "species": "UNCONFIRMED",
+      "species": "CONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -3627,7 +3627,7 @@
       "count": ""
     },
     {
-      "species": "UNCONFIRMED",
+      "species": "CONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -3651,7 +3651,23 @@
       "count": ""
     },
     {
-      "species": "UNCONFIRMED",
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S385278399",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -3659,7 +3675,7 @@
       "count": ""
     },
     {
-      "species": "UNCONFIRMED",
+      "species": "CONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -3799,7 +3815,7 @@
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384507767",
+      "checklist_url": "https://ebird.org/checklist/S384599489",
       "count": ""
     },
     {
@@ -3847,7 +3863,7 @@
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384505334",
+      "checklist_url": "https://ebird.org/checklist/S384505336",
       "count": ""
     },
     {
@@ -3863,7 +3879,7 @@
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384505336",
+      "checklist_url": "https://ebird.org/checklist/S384507767",
       "count": ""
     },
     {
@@ -3895,7 +3911,7 @@
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384599489",
+      "checklist_url": "https://ebird.org/checklist/S384505334",
       "count": ""
     },
     {
@@ -3923,15 +3939,15 @@
       "count": ""
     },
     {
-      "species": "CONFIRMED",
+      "species": "UNCONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384467633",
+      "checklist_url": "https://ebird.org/checklist/S385281907",
       "count": ""
     },
     {
-      "species": "CONFIRMED",
+      "species": "UNCONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -3959,7 +3975,7 @@
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S382910613",
+      "checklist_url": "https://ebird.org/checklist/S384467633",
       "count": ""
     },
     {
@@ -4003,7 +4019,7 @@
       "count": ""
     },
     {
-      "species": "UNCONFIRMED",
+      "species": "CONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -4011,7 +4027,7 @@
       "count": ""
     },
     {
-      "species": "UNCONFIRMED",
+      "species": "CONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -4019,7 +4035,7 @@
       "count": ""
     },
     {
-      "species": "UNCONFIRMED",
+      "species": "CONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -4027,7 +4043,7 @@
       "count": ""
     },
     {
-      "species": "UNCONFIRMED",
+      "species": "CONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -4056,22 +4072,6 @@
       "date": "",
       "observer": "",
       "checklist_url": "https://ebird.org/checklist/S383243505",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S383042114",
       "count": ""
     },
     {
@@ -4167,75 +4167,91 @@
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S383362206",
-      "count": ""
-    },
-    {
-      "species": "UNCONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "UNCONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S383338601",
-      "count": ""
-    },
-    {
-      "species": "UNCONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "UNCONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S383264860",
-      "count": ""
-    },
-    {
-      "species": "UNCONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "UNCONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S383268027",
-      "count": ""
-    },
-    {
-      "species": "UNCONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "UNCONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
       "checklist_url": "https://ebird.org/checklist/S383570056",
       "count": ""
     },
     {
       "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S385300467",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S385279869",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S385312424",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S385239527",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S385119129",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -4311,22 +4327,6 @@
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S383032480",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
       "checklist_url": "https://ebird.org/checklist/S384070243",
       "count": ""
     },
@@ -4344,22 +4344,6 @@
       "date": "",
       "observer": "",
       "checklist_url": "https://ebird.org/checklist/S384756230",
-      "count": ""
-    },
-    {
-      "species": "UNCONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "UNCONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384981122",
       "count": ""
     },
     {
@@ -4419,31 +4403,15 @@
       "count": ""
     },
     {
-      "species": "UNCONFIRMED",
+      "species": "CONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384496992",
+      "checklist_url": "https://ebird.org/checklist/S383421289",
       "count": ""
     },
     {
-      "species": "UNCONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "UNCONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384491085",
-      "count": ""
-    },
-    {
-      "species": "UNCONFIRMED",
+      "species": "CONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -4487,43 +4455,43 @@
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S383002169",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S382994507",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
       "checklist_url": "https://ebird.org/checklist/S383374023",
       "count": ""
     },
     {
       "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S385205307",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S385193824",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -4588,22 +4556,6 @@
     },
     {
       "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "UNCONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S382986451",
-      "count": ""
-    },
-    {
-      "species": "UNCONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -4679,22 +4631,6 @@
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S383037910",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
       "checklist_url": "https://ebird.org/checklist/S383388121",
       "count": ""
     },
@@ -4716,22 +4652,6 @@
     },
     {
       "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "UNCONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S382915133",
-      "count": ""
-    },
-    {
-      "species": "UNCONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -4775,22 +4695,6 @@
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384742945",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
       "checklist_url": "https://ebird.org/checklist/S384742906",
       "count": ""
     },
@@ -4807,7 +4711,7 @@
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384742942",
+      "checklist_url": "https://ebird.org/checklist/S384742945",
       "count": ""
     },
     {
@@ -4824,6 +4728,22 @@
       "date": "",
       "observer": "",
       "checklist_url": "https://ebird.org/checklist/S384804320",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S384742942",
       "count": ""
     },
     {
@@ -4936,6 +4856,22 @@
       "date": "",
       "observer": "",
       "checklist_url": "https://ebird.org/checklist/S383995046",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S383800602",
       "count": ""
     },
     {
@@ -5095,6 +5031,22 @@
       "location": "",
       "date": "",
       "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S383246106",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
       "checklist_url": "https://ebird.org/checklist/S383246023",
       "count": ""
     },
@@ -5123,38 +5075,6 @@
       "count": ""
     },
     {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S383246106",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S382986451",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
       "species": "UNCONFIRMED",
       "location": "",
       "date": "",
@@ -5171,38 +5091,6 @@
       "count": ""
     },
     {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S383401877",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S382883747",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
       "species": "UNCONFIRMED",
       "location": "",
       "date": "",
@@ -5212,22 +5100,6 @@
     },
     {
       "species": "UNCONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384948640",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -5260,6 +5132,22 @@
     },
     {
       "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S384948640",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -5303,11 +5191,27 @@
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384957766",
+      "checklist_url": "https://ebird.org/checklist/S383366578",
       "count": ""
     },
     {
       "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S383231676",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -5324,38 +5228,6 @@
     },
     {
       "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "UNCONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S383708580",
-      "count": ""
-    },
-    {
-      "species": "UNCONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "UNCONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S383708578",
-      "count": ""
-    },
-    {
-      "species": "UNCONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -5395,11 +5267,43 @@
       "count": ""
     },
     {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S385144925",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
       "species": "CONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
       "checklist_url": "https://ebird.org/checklist/S383288390",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S385252369",
       "count": ""
     },
     {
@@ -5511,22 +5415,6 @@
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S383627185",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
       "checklist_url": "https://ebird.org/checklist/S384472667",
       "count": ""
     },
@@ -5555,7 +5443,7 @@
       "count": ""
     },
     {
-      "species": "UNCONFIRMED",
+      "species": "CONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -5563,23 +5451,7 @@
       "count": ""
     },
     {
-      "species": "UNCONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "UNCONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S382965182",
-      "count": ""
-    },
-    {
-      "species": "UNCONFIRMED",
+      "species": "CONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -5655,7 +5527,7 @@
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384067526",
+      "checklist_url": "https://ebird.org/checklist/S384033037",
       "count": ""
     },
     {
@@ -5671,7 +5543,7 @@
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384033037",
+      "checklist_url": "https://ebird.org/checklist/S384067526",
       "count": ""
     },
     {
@@ -5703,7 +5575,7 @@
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S385000003",
+      "checklist_url": "https://ebird.org/checklist/S384802383",
       "count": ""
     },
     {
@@ -5751,7 +5623,7 @@
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384802383",
+      "checklist_url": "https://ebird.org/checklist/S385000003",
       "count": ""
     },
     {
@@ -5827,15 +5699,15 @@
       "count": ""
     },
     {
-      "species": "CONFIRMED",
+      "species": "UNCONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S383003006",
+      "checklist_url": "https://ebird.org/checklist/S384470556",
       "count": ""
     },
     {
-      "species": "CONFIRMED",
+      "species": "UNCONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -5848,22 +5720,6 @@
       "date": "",
       "observer": "",
       "checklist_url": "https://ebird.org/checklist/S384470559",
-      "count": ""
-    },
-    {
-      "species": "UNCONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "UNCONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384470556",
       "count": ""
     },
     {
@@ -5895,7 +5751,7 @@
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S382979742",
+      "checklist_url": "https://ebird.org/checklist/S385202852",
       "count": ""
     },
     {
@@ -5916,22 +5772,6 @@
     },
     {
       "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "UNCONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S382822832",
-      "count": ""
-    },
-    {
-      "species": "UNCONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -5976,6 +5816,22 @@
       "date": "",
       "observer": "",
       "checklist_url": "https://ebird.org/checklist/S384910538",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S385191893",
       "count": ""
     },
     {
@@ -6103,7 +5959,7 @@
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S385029687",
+      "checklist_url": "https://ebird.org/checklist/S385029685",
       "count": ""
     },
     {
@@ -6119,7 +5975,7 @@
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S385029685",
+      "checklist_url": "https://ebird.org/checklist/S385029687",
       "count": ""
     },
     {
@@ -6167,6 +6023,102 @@
       "location": "",
       "date": "",
       "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S385171952",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S385191133",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S385184288",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S385130114",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S385154466",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S385145737",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
       "checklist_url": "https://ebird.org/checklist/S385029741",
       "count": ""
     },
@@ -6184,86 +6136,6 @@
       "date": "",
       "observer": "",
       "checklist_url": "https://ebird.org/checklist/S385002211",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S385009827",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S385017576",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S385045047",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S385013171",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S385010571",
       "count": ""
     },
     {
@@ -6307,15 +6179,15 @@
       "count": ""
     },
     {
-      "species": "UNCONFIRMED",
+      "species": "CONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S385012182",
+      "checklist_url": "https://ebird.org/checklist/S385144925",
       "count": ""
     },
     {
-      "species": "UNCONFIRMED",
+      "species": "CONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -6323,7 +6195,23 @@
       "count": ""
     },
     {
-      "species": "UNCONFIRMED",
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S385012182",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -6331,7 +6219,7 @@
       "count": ""
     },
     {
-      "species": "UNCONFIRMED",
+      "species": "CONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -6375,11 +6263,59 @@
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S383035058",
+      "checklist_url": "https://ebird.org/checklist/S385159936",
       "count": ""
     },
     {
       "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S385141342",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S385203279",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S385240137",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -6412,6 +6348,22 @@
     },
     {
       "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S385234382",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -6536,6 +6488,22 @@
       "date": "",
       "observer": "",
       "checklist_url": "https://ebird.org/checklist/S384120489",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S383352770",
       "count": ""
     },
     {
@@ -6691,7 +6659,7 @@
       "count": ""
     },
     {
-      "species": "UNCONFIRMED",
+      "species": "CONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -6699,7 +6667,7 @@
       "count": ""
     },
     {
-      "species": "UNCONFIRMED",
+      "species": "CONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -6807,7 +6775,7 @@
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384683696",
+      "checklist_url": "https://ebird.org/checklist/S384815611",
       "count": ""
     },
     {
@@ -6823,11 +6791,27 @@
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384815611",
+      "checklist_url": "https://ebird.org/checklist/S384683696",
       "count": ""
     },
     {
       "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S385135099",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -6851,11 +6835,27 @@
       "count": ""
     },
     {
-      "species": "UNCONFIRMED",
+      "species": "CONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
       "checklist_url": "https://ebird.org/checklist/S384898307",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S384802383",
       "count": ""
     },
     {
@@ -6887,6 +6887,22 @@
       "location": "",
       "date": "",
       "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S384798239",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
       "checklist_url": "https://ebird.org/checklist/S384801251",
       "count": ""
     },
@@ -6903,23 +6919,7 @@
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384802383",
-      "count": ""
-    },
-    {
-      "species": "UNCONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "UNCONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384798239",
+      "checklist_url": "https://ebird.org/checklist/S385000003",
       "count": ""
     },
     {
@@ -6936,22 +6936,6 @@
       "date": "",
       "observer": "",
       "checklist_url": "https://ebird.org/checklist/S385004852",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S383020309",
       "count": ""
     },
     {
@@ -6999,22 +6983,6 @@
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S382895885",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
       "checklist_url": "https://ebird.org/checklist/S383651096",
       "count": ""
     },
@@ -7043,7 +7011,7 @@
       "count": ""
     },
     {
-      "species": "UNCONFIRMED",
+      "species": "CONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -7051,7 +7019,7 @@
       "count": ""
     },
     {
-      "species": "UNCONFIRMED",
+      "species": "CONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -7143,6 +7111,22 @@
       "location": "",
       "date": "",
       "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S385096783",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
       "checklist_url": "https://ebird.org/checklist/S384811774",
       "count": ""
     },
@@ -7187,15 +7171,15 @@
       "count": ""
     },
     {
-      "species": "CONFIRMED",
+      "species": "UNCONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384792811",
+      "checklist_url": "https://ebird.org/checklist/S385158879",
       "count": ""
     },
     {
-      "species": "CONFIRMED",
+      "species": "UNCONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -7208,22 +7192,6 @@
       "date": "",
       "observer": "",
       "checklist_url": "https://ebird.org/checklist/S384853368",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S382986451",
       "count": ""
     },
     {
@@ -7319,22 +7287,6 @@
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S385041942",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
       "checklist_url": "https://ebird.org/checklist/S384672954",
       "count": ""
     },
@@ -7367,7 +7319,7 @@
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S383390014",
+      "checklist_url": "https://ebird.org/checklist/S385041942",
       "count": ""
     },
     {
@@ -7411,7 +7363,7 @@
       "count": ""
     },
     {
-      "species": "UNCONFIRMED",
+      "species": "CONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -7419,7 +7371,7 @@
       "count": ""
     },
     {
-      "species": "UNCONFIRMED",
+      "species": "CONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -7447,7 +7399,7 @@
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384329807",
+      "checklist_url": "https://ebird.org/checklist/S385205816",
       "count": ""
     },
     {
@@ -7463,11 +7415,43 @@
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S383581384",
+      "checklist_url": "https://ebird.org/checklist/S385205817",
       "count": ""
     },
     {
       "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S384329807",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S385137342",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -7532,6 +7516,38 @@
     },
     {
       "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S385203536",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S385179438",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -7607,7 +7623,7 @@
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S383244842",
+      "checklist_url": "https://ebird.org/checklist/S385146657",
       "count": ""
     },
     {
@@ -7619,31 +7635,15 @@
       "count": ""
     },
     {
-      "species": "UNCONFIRMED",
+      "species": "CONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S382968157",
+      "checklist_url": "https://ebird.org/checklist/S383244842",
       "count": ""
     },
     {
-      "species": "UNCONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "UNCONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S382956649",
-      "count": ""
-    },
-    {
-      "species": "UNCONFIRMED",
+      "species": "CONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -7779,6 +7779,22 @@
       "count": ""
     },
     {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S385263934",
+      "count": ""
+    },
+    {
+      "species": "UNCONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
       "species": "CONFIRMED",
       "location": "",
       "date": "",
@@ -7800,22 +7816,6 @@
       "date": "",
       "observer": "",
       "checklist_url": "https://ebird.org/checklist/S384906938",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384672616",
       "count": ""
     },
     {
@@ -7939,7 +7939,7 @@
       "count": ""
     },
     {
-      "species": "UNCONFIRMED",
+      "species": "CONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -7947,7 +7947,23 @@
       "count": ""
     },
     {
-      "species": "UNCONFIRMED",
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
+      "location": "",
+      "date": "",
+      "observer": "",
+      "checklist_url": "https://ebird.org/checklist/S384446981",
+      "count": ""
+    },
+    {
+      "species": "CONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
@@ -7959,7 +7975,7 @@
       "location": "",
       "date": "",
       "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S384446981",
+      "checklist_url": "https://ebird.org/checklist/S385132240",
       "count": ""
     },
     {
@@ -7980,22 +7996,6 @@
     },
     {
       "species": "CONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "",
-      "count": ""
-    },
-    {
-      "species": "UNCONFIRMED",
-      "location": "",
-      "date": "",
-      "observer": "",
-      "checklist_url": "https://ebird.org/checklist/S382863592",
-      "count": ""
-    },
-    {
-      "species": "UNCONFIRMED",
       "location": "",
       "date": "",
       "observer": "",
